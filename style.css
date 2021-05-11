@@ -1,0 +1,18 @@
+:root{
+  --black: rgb(0,0,0);
+  --orange: rgb(235, 106, 32);
+}
+
+footer
+{
+  background-color:var(--black);
+}
+
+#paragraph{
+  background-color:var(--black);
+}
+
+.orange{
+  background-color: rgb(235, 106, 32);
+  background-size: 100%;
+}
